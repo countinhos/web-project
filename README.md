@@ -15,6 +15,7 @@ Para a gestão de usuários serão implementadas as seguintes *features*:
 * Integração contínua durante o desenvolvimento (através da plataforma **Heroku** + **GitHub**);
 
 ## Integração
+* Integração com API do *Twitter* para incluir os posts na plataforma. Os posts incorporados dessa rede social terão um indicativo visual para indicar a origem;
 
 ## Inteligência
 

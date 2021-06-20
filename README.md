@@ -2,7 +2,7 @@
 # Descrição do projeto
 O projeto consiste em uma nova maneira invadora e única de se comunicar com as pessoas. Algo nunca feito e nunca pensado antes, algo como um rede de socialização entre pessoas na internet. Onde pessoas que não se conhecem podem saber o que você está pensando e você pode saber o que pessoas que você não conhece estão pensando. Uma maneira de (principalmente agora em pandemia) aumentar o distanciamento social, uma vez que não precisaremos mais nos encontrar para nos comunicarmos.
 
-Cada usuário terá sua própria *home page* que apenas ele tera a possibilidade de edição, e tudo o que ele postar será publicado nesta rede de forma que qualquer pessoa poderá ver todas as publicações de todos que estão na rede. Todas as *home pages* dos usuário estárão disponíveis através de um link que qualquer pessoa (desde que esteja logada) possa acessar. 
+Cada usuário terá sua própria *home page* que apenas ele tera a possibilidade de edição, e tudo o que ele postar será publicado nesta rede de forma que qualquer pessoa poderá ver todas as publicações de todos que estão na rede. As publicações dos usuários são apelidadas de *Icegurts* e somem depois de 30 dias. Todas as *home pages* dos usuário estárão disponíveis através de um link que qualquer pessoa (desde que esteja logada) possa acessar. 
 
 # Proposta do projeto (especificações técnicas)  
 ## Gestão de usuários

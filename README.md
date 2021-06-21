@@ -1,4 +1,8 @@
 # Yorgut
+
+**Grupo 9**
+**Alunos:** Arthur Novaes,	Bernard Menezes, Tiago Araújo, Heloísa
+
 # Descrição do projeto
 O projeto consiste em uma nova maneira invadora e única de se comunicar com as pessoas. Algo nunca feito e nunca pensado antes, algo como um rede de socialização entre pessoas na internet. Em que pessoas que não se conhecem podem saber o que você está pensando e você pode saber o que pessoas que você não conhece estão pensando. Uma maneira de (principalmente agora em pandemia) aumentar o distanciamento social, uma vez que não precisaremos mais nos encontrar para nos comunicarmos.
 

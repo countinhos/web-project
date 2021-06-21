@@ -24,13 +24,13 @@ Para a gestão de usuários serão implementadas as seguintes funcionalidades:
 ## Integração
 
 * APIs de serviço de hospedagem (comnuicação com S3 para armazenar arquivos blob) (6%);
+* Integração com API do *YouTube*. Em cada post do usuário será possível vincular um vídeo do YouTube através do link.
+* Upload de arquivos na S3 (AWS)
 
 ## BackEnd
 * Agendamento de funções do *BackEnd* para atualização das postagens dos usuários (4%);
 * Camada de dados RESTful (3%)
 * Possibilitar upload de arquivos em postagens (5%);
-* Integração com API do *YouTube*. Em cada post do usuário será possível vincular um vídeo do YouTube através do link.
-* Upload de arquivos na S3 (AWS)
 
 ## FrontEnd
 * Todas as páginas responsivas

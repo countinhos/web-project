@@ -43,3 +43,6 @@ Neste tópico serão listadas quais as tecnologias foram escolhidas para o desen
 * **BackEnd**: O BackEnd será desenvolvido em **NodeJS**
 * **Servidor**: Tanto o FrontEnd quanto o BackEnd serão hospedados na plataforma em nuvem **Heroku**
 * **Banco de Dados**: O Banco de dados utilizado será o **MongoDB** com uma instância hosperada no servidor da **Atlas**
+
+## Protótipo
+![](imgs/prototipo.png)
